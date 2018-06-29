@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "gulp-clean-css": "^3.9.4",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
